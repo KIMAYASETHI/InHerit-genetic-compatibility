@@ -56,7 +56,7 @@ This project is a prototype focused on ethical design and educational flow. CLIN
 
 Below are some photos from the current prototype version of InHerit.
 
-![Discalimer!]!![WhatsApp Image 2026-01-20 at 02 46 11](https://github.com/user-attachments/assets/cdf2d3c9-d55e-4af3-8de2-960dccc21a53)
+![WhatsApp Image 2026-01-20 at 02 46 11](https://github.com/user-attachments/assets/cdf2d3c9-d55e-4af3-8de2-960dccc21a53)
 ![WhatsApp Image 2026-01-20 at 02 45 38](https://github.com/user-attachments/assets/c5e85024-5226-4bc1-b8fc-ccdb7dd13a63)
 ![Home Screen]!![WhatsApp Image 2026-01-20 at 02 09 09 (3)](https://github.com/user-attachments/assets/18fd0f62-eb28-4f31-b9cc-54ba938cafc1)
 ![WhatsApp Image 2026-01-20 at 02 09 09 (4)](https://github.com/user-attachments/assets/acfc96d1-8b29-47ef-976c-d88b3f91ada6)
