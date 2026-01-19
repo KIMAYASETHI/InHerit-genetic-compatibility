@@ -46,6 +46,18 @@ It is not a diagnostic, predictive, or clinical tool and should not be used for 
 - Expanded documentation
 - Open-source release with community feedback
 
+- ## App Preview
+
+Below are screenshots from the current prototype version of InHerit.
+
+![Home Screen]
+![Workflow Example]()![WhatsApp Image 2026-01-20 at 02 09 10](https://github.com/user-attachments/assets/85037ea9-ba34-442d-999c-e76a9a7f8982)
+![WhatsApp Image 2026-01-20 at 02 09 09 (2)](https://github.com/user-attachments/assets/2eb175b3-2aa4-4d16-bdc2-699b55ee8a80)
+![WhatsApp Image 2026-01-20 at 02 09 09 (1)](https://github.com/user-attachments/assets/1b733a73-0d2c-4b28-a98d-a903feead248)
+![WhatsApp Image 2026-01-20 at 02 09 09](https://github.com/user-attachments/assets/1132606f-1772-4e26-9d76-e19353bbcef5)
+
+
+
 ---
 
 ## Author
