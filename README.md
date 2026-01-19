@@ -37,10 +37,11 @@ The platform is intended strictly for **educational and academic purposes** and 
 
 ---
 
-## Ethical Disclaimer
+## Ethical Disclaimer!
 
 This project is intended for **educational use only**.  
 It is not a diagnostic, predictive, or clinical tool and should not be used for medical decision-making.
+This project is a prototype focused on ethical design and educational flow. CLINICAL VALIDATION AND DEPLOYMENT ARE OUT OF SCOPE AT THIS STAGE.
 
 ---
 
