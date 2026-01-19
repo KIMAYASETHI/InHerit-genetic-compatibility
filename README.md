@@ -1,8 +1,11 @@
-# InHerit-genetic-compatibility
-Educational prototype exploring genetic compatibility
+# InHerit--Ethics-First Genetic Compatibility and Reproductive Health Education Platform
+Educational prototype exploring genetic compatibility and health related factors
 # InHerit
 
 **InHerit** is an educational prototype designed to explore concepts related to genetic compatibility and inheritance in the context of reproductive health.
+
+InHerit is a prototype-stage, ethics-first platform focused on genetic literacy and reproductive health education for individuals and couples.
+The platform is strictly educational — it does not predict outcomes, diagnose conditions, determine fertility, or identify fetal sex. Instead, it prioritizes risk awareness, scientific humility, and informed understanding of genetics and reproductive health
 
 This project was developed as part of my independent learning in genetics, bioinformatics, and computational approaches to biological problems.
 
@@ -19,7 +22,7 @@ The platform is intended strictly for **educational and academic purposes** and 
 
 - Prototype stage
 - Core logic and workflow design completed
-- User interface developed using AI-assisted development tools (Caffeine)
+- User interface developed using AI assisted tools 
 - Public deployment and documentation are ongoing
 
 ---
@@ -48,15 +51,21 @@ It is not a diagnostic, predictive, or clinical tool and should not be used for 
 
 - ## App Preview
 
-Below are screenshots from the current prototype version of InHerit.
+Below are some photos from the current prototype version of InHerit.
 
-![Home Screen]![WhatsApp Image 2026-01-20 at 02 09 10](https://github.com/user-attachments/assets/18cf3d33-9a11-453a-a19b-a9e5d66afbb0)
-![WhatsApp Image 2026-01-20 at 02 09 09 (2)](https://github.com/user-attachments/assets/9b4bc479-a613-4641-9796-296b2f67c4cc)
-![WhatsApp Image 2026-01-20 at 02 09 09 (1)](https://github.com/user-attachments/assets/92e61e1f-f688-432a-af00-2ef30752fe3b)
-![WhatsApp Image 2026-01-20 at 02 09 09](https://github.com/user-attachments/assets/24b5c10c-0572-4cf9-ad45-c265173fcd98)
+![Home Screen]!![WhatsApp Image 2026-01-20 at 02 09 09 (3)](https://github.com/user-attachments/assets/18fd0f62-eb28-4f31-b9cc-54ba938cafc1)
+![WhatsApp Image 2026-01-20 at 02 09 09 (4)](https://github.com/user-attachments/assets/acfc96d1-8b29-47ef-976c-d88b3f91ada6)
+![WhatsApp Image 2026-01-20 at 02 09 09 (5)](https://github.com/user-attachments/assets/b01637a2-52d1-4cb1-8c15-aa15de4294df)
+![WhatsApp Image 2026-01-20 at 02 09 10 (1)](https://github.com/user-attachments/assets/bf8c3d0f-9145-41dc-aad3-66e80b6761d7)
 
 
 
+
+- ## Why InHerit
+  
+Genetics is not destiny.
+Education is responsibility.
+AI must respect uncertainty.
 
 
 
