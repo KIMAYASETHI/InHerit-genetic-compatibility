@@ -1,4 +1,4 @@
-# InHerit--Ethics-First Genetic Compatibility and Reproductive Health Education Platform
+# InHerit- Ethics- First Genetic Compatibility and Reproductive Health Education Platform
 Educational prototype exploring genetic compatibility and health related factors
 # InHerit
 
