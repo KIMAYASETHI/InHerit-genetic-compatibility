@@ -5,7 +5,9 @@ Educational prototype exploring genetic compatibility and health related factors
 **InHerit** is an educational prototype designed to explore concepts related to genetic compatibility and inheritance in the context of reproductive health.
 
 InHerit is a prototype-stage, ethics-first platform focused on genetic literacy and reproductive health education for individuals and couples.
-The platform is strictly educational — it does not predict outcomes, diagnose conditions, determine fertility, or identify fetal sex. Instead, it prioritizes risk awareness, scientific humility, and informed understanding of genetics and reproductive health
+The platform is strictly educational — it does not predict outcomes, diagnose conditions, determine fertility, or identify fetal sex. Instead, it prioritizes risk awareness, scientific humility, and informed understanding of genetics and reproductive health. Eduacting the audience for future risks and possibilities in today's modern era powered by genetics and proper planning . 
+
+Helping the audience to create a better future and environment for the next generations.
 
 This project was developed as part of my independent learning in genetics, bioinformatics, and computational approaches to biological problems.
 
